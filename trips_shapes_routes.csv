@@ -1,0 +1,6 @@
+,route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,shape_pt_lon,shape_pt_lat,shape_pt_sequence,shape_dist_traveled,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+0,13392,1,8318856,Geary + 33rd Avenue,0,122,159274,-122.39696799999999,37.795435999999995,1,0,SFMTA,1,CALIFORNIA,,3, , , 
+1,13392,1,8318856,Geary + 33rd Avenue,0,122,159274,-122.39678400000001,37.795471,2,17,SFMTA,1,CALIFORNIA,,3, , , 
+2,13392,1,8318856,Geary + 33rd Avenue,0,122,159274,-122.396598,37.794593,3,116,SFMTA,1,CALIFORNIA,,3, , , 
+3,13392,1,8318856,Geary + 33rd Avenue,0,122,159274,-122.39780900000001,37.794439000000004,4,224,SFMTA,1,CALIFORNIA,,3, , , 
+4,13392,1,8318856,Geary + 33rd Avenue,0,122,159274,-122.398983,37.794289,5,329,SFMTA,1,CALIFORNIA,,3, , , 
